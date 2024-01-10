@@ -1,0 +1,17 @@
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Application\bin\Debug\net7.0\PostLand.Application.deps.json
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Application\bin\Debug\net7.0\PostLand.Application.dll
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Application\bin\Debug\net7.0\PostLand.Application.pdb
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Application\bin\Debug\net7.0\PostLand.Domain.dll
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Application\bin\Debug\net7.0\PostLand.Domain.pdb
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Application\obj\Debug\net7.0\PostLand.Application.csproj.AssemblyReference.cache
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Application\obj\Debug\net7.0\PostLand.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Application\obj\Debug\net7.0\PostLand.Application.AssemblyInfoInputs.cache
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Application\obj\Debug\net7.0\PostLand.Application.AssemblyInfo.cs
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Application\obj\Debug\net7.0\PostLand.Application.csproj.CoreCompileInputs.cache
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Application\obj\Debug\net7.0\PostLand.Application.csproj.CopyComplete
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Application\obj\Debug\net7.0\PostLand.Application.dll
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Application\obj\Debug\net7.0\refint\PostLand.Application.dll
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Application\obj\Debug\net7.0\PostLand.Application.pdb
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Application\obj\Debug\net7.0\ref\PostLand.Application.dll
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Application\bin\Debug\net7.0\PostLand.Application.runtimeconfig.json
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Application\obj\Debug\net7.0\PostLand.Application.genruntimeconfig.cache

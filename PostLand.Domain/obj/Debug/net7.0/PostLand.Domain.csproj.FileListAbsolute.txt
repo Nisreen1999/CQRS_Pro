@@ -1,0 +1,14 @@
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Domain\bin\Debug\net7.0\PostLand.Domain.deps.json
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Domain\bin\Debug\net7.0\PostLand.Domain.dll
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Domain\bin\Debug\net7.0\PostLand.Domain.pdb
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Domain\obj\Debug\net7.0\PostLand.Domain.csproj.AssemblyReference.cache
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Domain\obj\Debug\net7.0\PostLand.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Domain\obj\Debug\net7.0\PostLand.Domain.AssemblyInfoInputs.cache
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Domain\obj\Debug\net7.0\PostLand.Domain.AssemblyInfo.cs
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Domain\obj\Debug\net7.0\PostLand.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Domain\obj\Debug\net7.0\PostLand.Domain.dll
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Domain\obj\Debug\net7.0\refint\PostLand.Domain.dll
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Domain\obj\Debug\net7.0\PostLand.Domain.pdb
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Domain\obj\Debug\net7.0\ref\PostLand.Domain.dll
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Domain\bin\Debug\net7.0\PostLand.Domain.runtimeconfig.json
+C:\Users\nisreen.wardeh\Desktop\Postland\PostLand\PostLand.Domain\obj\Debug\net7.0\PostLand.Domain.genruntimeconfig.cache
